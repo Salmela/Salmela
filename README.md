@@ -32,9 +32,10 @@ Here are a few projects I've been working on recently:
 
 ## ⚡ Fun Facts about me
 
-- I love learning new stuff about technology
 - My christmas project was writing toy gpu.
 - I enjoy cooking and baking cakes.
+- I know interactive debuggers and I am not afraid of using them (gdb, pdb, irb, browser debuggers)
+- Our company's (giosg) AI expert called me "koodijumalaksi" (code god) 😂
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
 
