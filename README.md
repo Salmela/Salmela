@@ -37,6 +37,6 @@ Here are a few projects I've been working on recently:
 - I know interactive debuggers and I am not afraid of using them (gdb, pdb, irb, browser debuggers)
 - Our company's (giosg) AI expert called me "koodijumalaksi" (code god) 😂
 
-Thanks for stopping by! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
+Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salmela&show_icons=true&theme=radical)
