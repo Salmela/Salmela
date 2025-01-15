@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a self-taught software developer with universi
 Here are a few projects I've been working on recently:
 
 - **[Learn-helsinki](https://github.com/Salmela/learn-helsinki)**: Quiz game to learn places and names in Helsinki inspired by duolingo.
+- My christmas project was writing toy gpu on fpga.
 - Thumbnail microservice for giosg
 - **[Pelix](https://salmela.dev/demoes/pelix/)**: Parser, interpreter and debugger for little toy language that I did in the middle of lapland without any tools. I did use existing parsing library, but I ended up rewriting it as it's error handling was causing lag.
 - **[Nano inkscape](https://salmela.dev/demoes/nano_inkscape/draw.htm)** Very old vector graphics program that I did
@@ -32,7 +33,6 @@ Here are a few projects I've been working on recently:
 
 ## ⚡ Fun Facts about me
 
-- My christmas project was writing toy gpu.
 - I enjoy cooking and baking cakes.
 - I know interactive debuggers and I am not afraid of using them (gdb, pdb, irb, browser debuggers)
 - Our company's (giosg) AI expert called me "koodijumalaksi" (code god) 😂
