@@ -27,7 +27,7 @@ Here are a few projects I've been working on recently:
 - **[Learn-helsinki](https://github.com/Salmela/learn-helsinki)**: Quiz game to learn places and names in Helsinki inspired by duolingo.
 - My christmas project was writing toy gpu on fpga.
 - Thumbnail microservice for giosg
-- **[Pelix](https://salmela.dev/demoes/pelix/)**: Parser, interpreter and debugger for little toy language that I did in the middle of lapland without any tools. I did use existing parsing library, but I ended up rewriting it as it's parsing algorithm was too slow
+- **[Pelix](https://salmela.dev/demoes/pelix/)**: Parser, interpreter and debugger for little toy language that I did in the middle of lapland without any tools. I did use [existing parsing library](https://github.com/dmaevsky/rd-parse), but I ended up rewriting it as it's parsing algorithm was too slow
 - **[Nano inkscape](https://salmela.dev/demoes/nano_inkscape/draw.htm)** Very old vector graphics program that I did
 - Many of my projects are not in github
 
