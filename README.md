@@ -36,7 +36,6 @@ Here are a few projects I've been working on recently:
 
 - I enjoy cooking and baking cakes.
 - I know interactive debuggers and I am not afraid of using them
-- Our company's (giosg) AI expert called me "koodijumalaksi" (code god) 😂
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
 
