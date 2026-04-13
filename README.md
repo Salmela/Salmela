@@ -17,8 +17,7 @@ Welcome to my GitHub profile! I'm a self-taught software developer with universi
 
 ## 🌱 Currently Learning
 
-- Go
-- Leaflet.js
+- Writing own llm coding agent
 
 ## 👨‍💻 Projects
 
